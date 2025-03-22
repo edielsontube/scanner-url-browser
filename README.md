@@ -15,7 +15,7 @@ Copie:
 javascript:void(function(){
     let e = document.createElement('div');
     e.style.cssText = 'position:fixed;bottom:0;left:0;width:100%;height:350px;background:#2d2d2d;color:white;z-index:999999;padding:20px;overflow:auto;font-family:Arial, sans-serif;border-top:4px solid #0055ff;border-radius:10px 10px 0 0;';
-    e.innerHTML = '<h3 style="color:#00ff00;text-align:center;font-size:20px;margin-bottom:15px;">🔍 <strong>Scanner Browser</strong></h3>' +
+    e.innerHTML = '<h3 style="color:#00ff00;text-align:center;font-size:20px;margin-bottom:15px;">🔍 <strong>BlackLine Scanner</strong></h3>' +
                   '<div style="margin-bottom:15px;color:#00ff00;font-size:14px;text-align:center;">' +
                   'Palavras-chave para pesquisa: <span style="color:#ffcc00;font-weight:bold;">api, key, token, auth, config, database, backup, admin, login, user, secret, private, .json, .env, debug, test</span>' +
                   '</div>' +
@@ -112,6 +112,7 @@ javascript:void(function(){
         }
     });
 })();
+
 
 interface
 
