@@ -10,8 +10,8 @@ O scanner faz uma busca completa na aplicação web e traz os resultados instant
 ⚠️ Nota: Este script não faz uma busca super profunda, mas é um ótimo complemento para outras ferramentas como Waybackurls, GAU, GAUplus.
 
 🔍 Código do Scanner
-Copie:
 
+Copie:
 javascript:void(function(){
     let e = document.createElement('div');
     e.style.cssText = 'position:fixed;bottom:0;left:0;width:100%;height:350px;background:#2d2d2d;color:white;z-index:999999;padding:20px;overflow:auto;font-family:Arial, sans-serif;border-top:4px solid #0055ff;border-radius:10px 10px 0 0;';
